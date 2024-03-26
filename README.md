@@ -1,4 +1,4 @@
-# facial_recognition
+# facial_recognition_apis
 **Top facial recognition APIs that are best on the market today**
 
 [Kairos](https://www.kairos.com/). Kairos offers a face recognition API that simplifies integrating human identity verification into your event management applications.  Their deep learning algorithms analyze faces in images you submit, returning data like attendee identification or even age and gender estimates. This can streamline the registration process and potentially enhance security. They even provide a free trial to test their functionality before committing.
