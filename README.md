@@ -1,11 +1,11 @@
 # facial_recognition_apis
 **Top facial recognition APIs that are best on the market today**
 
+[Luxand.cloud](https://luxand.cloud/). Luxand.cloud offers a face recognition API that lets you integrate facial recognition into your event management system. It can streamline attendee registration and potentially enhance security. This cloud-based API boasts high accuracy, exceeding 99% in face matching. You can use Luxand.cloud's face detection API for free, with a generous 500 API requests available monthly. This free tier allows you to experiment and see if it meets your needs before committing to a paid plan.
+
 [Kairos](https://www.kairos.com/). Kairos offers a face recognition API that simplifies integrating human identity verification into your event management applications.  Their deep learning algorithms analyze faces in images you submit, returning data like attendee identification or even age and gender estimates. This can streamline the registration process and potentially enhance security. They even provide a free trial to test their functionality before committing.
 
 [Trueface.ai](https://www.trueface.ai/). Trueface.ai offers a facial recognition API that goes beyond simple face detection.  Their API provides both 1:1 (verifying a person against a single image) and 1:N (identifying someone against a database of faces) matching.  They also boast liveness detection to combat spoofing with pictures or videos.  
-
-[Luxand.cloud](https://luxand.cloud/). Luxand.cloud offers a face recognition API that lets you integrate facial recognition into your event management system. It can streamline attendee registration and potentially enhance security. This cloud-based API boasts high accuracy, exceeding 99% in face matching. You can use Luxand.cloud's face detection API for free, with a generous 500 API requests available monthly. This free tier allows you to experiment and see if it meets your needs before committing to a paid plan.
 
 [Amazon Rekognition](https://aws.amazon.com/rekognition/). Amazon Rekognition offers a powerful face recognition API that lets you add facial analysis to your event applications. It can detect faces in images, analyze facial features, and even compare faces to a reference database. This functionality can streamline attendee registration by verifying identities and potentially enhance security measures. Amazon Rekognition provides a free tier, allowing you to experiment with its capabilities before committing to a paid plan. This free tier includes a limited number of calls per month, giving you a chance to assess its effectiveness for your event management needs.
 
